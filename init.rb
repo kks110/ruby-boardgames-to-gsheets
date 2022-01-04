@@ -38,16 +38,16 @@ game_array = []
 if games.validate
   games.game_list.each do |game|
     game_array << [
-      'true',
+      'y',
       game['title'],
-      game['expansion'].nil? ? 'false' : 'true',
+      game['expansion'].nil? ? 'n' : 'y',
       game['players'][0],
       game['players'][1],
       game['playTime'][0],
       game['playTime'][1],
       game['weight'],
-      'false',
-      'false',
+      'n',
+      'n',
       0,
       0
     ]
