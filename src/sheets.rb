@@ -1,4 +1,6 @@
 class Sheets
+  DATA_FILE = 'data.json'
+
   attr_accessor :sheets_id, :service
 
   def initialize(service)
@@ -16,7 +18,7 @@ class Sheets
     }
     spreadsheet = service.create_spreadsheet(spreadsheet, fields: 'spreadsheetId')
 
-    File.open('data.json', 'w') do |f|
+    File.open(DATA_FILE, 'w') do |f|
       f.write(
         {
           "sheet_id" => spreadsheet.spreadsheet_id
@@ -32,15 +34,15 @@ class Sheets
       sheets_id,
       range_name,
       value_range_object,
-      value_input_option: 'USER_ENTERED'
+      value_input_option: 'RAW'
     )
     result
   end
 
   def load_sheets_id
-    return '' unless File.file?('data.json')
+    return '' unless File.file?(DATA_FILE)
 
-    file = File.read('data.json')
+    file = File.read(DATA_FILE)
     data_hash = JSON.parse(file)
     @sheets_id = data_hash['sheet_id']
   end

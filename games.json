@@ -1,0 +1,617 @@
+[
+  {
+    "title": "Ashes rise of the Phoenixborn",
+    "players": [2,4],
+    "playTime": [15,30],
+    "bggRating": 7.3,
+    "weight": 2.91,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Azul",
+    "players": [2,4],
+    "playTime": [30,45],
+    "bggRating": 7.9,
+    "weight": 1.79,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Bärenpark",
+    "players": [2,4],
+    "playTime": [30,45],
+    "bggRating": 7.4,
+    "weight": 1.69,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Bears vs Babies",
+    "players": [
+      2,
+      5
+    ],
+    "playTime": [
+      15,
+      20
+    ],
+    "bggRating": 5.6,
+    "weight": 1.27,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Bears vs Babies: NSFW Expansion Pack",
+    "players": [2,5],
+    "playTime": [15,20],
+    "bggRating": 6.1,
+    "weight": 1.50,
+    "own": true,
+    "played": true,
+    "expansion": true
+  },
+  {
+    "title": "Bunny Kingdom",
+    "players": [2,4],
+    "playTime": [40,60],
+    "bggRating": 7.4,
+    "weight": 2.24,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Catan",
+    "players": [3,4],
+    "playTime": [60,120],
+    "bggRating": 7.2,
+    "weight": 2.33,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Codenames",
+    "players": [2,8],
+    "playTime": [10,20],
+    "bggRating": 7.7,
+    "weight": 1.3,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Coup",
+    "players": [3,6],
+    "playTime": [10,20],
+    "bggRating": 7.0,
+    "weight": 1.42,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "The Crew: The Quest for Planet Nine",
+    "players": [2,5],
+    "playTime": [20,30],
+    "bggRating": 8.0,
+    "weight": 1.99,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Cryptid",
+    "players": [3,5],
+    "playTime": [30,50],
+    "bggRating": 7.5,
+    "weight": 2.20,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Dice City",
+    "players": [1,4],
+    "playTime": [45,60],
+    "bggRating": 6.8,
+    "weight": 2.04,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Dobble",
+    "players": [2,8],
+    "playTime": [10,15],
+    "bggRating": 6.7,
+    "weight": 1.03,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Equinox",
+    "players": [2,5],
+    "playTime": [40,60],
+    "bggRating": 7.2,
+    "weight": 1.67,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Exploding kittens",
+    "players": [
+      2,
+      5
+    ],
+    "playTime": [
+      10,
+      20
+    ],
+    "bggRating": 6.0,
+    "weight": 1.07,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Exploding kittens: Imploding kittens",
+    "players": [2,6],
+    "playTime": [10,20],
+    "bggRating": 7.1,
+    "weight": 1.07,
+    "own": true,
+    "played": true,
+    "expansion": true
+  },
+  {
+    "title": "Flip City",
+    "players": [1,4],
+    "playTime": [30,50],
+    "bggRating": 6.4,
+    "weight": 1.74,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "A Game of Thrones: The Board Game (Second Edition)",
+    "players": [3,6],
+    "playTime": [120,240],
+    "bggRating": 7.6,
+    "weight": 3.71,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "A Game of Thrones: The Card Game (Second Edition)",
+    "players": [2,4],
+    "playTime": [60,120],
+    "bggRating": 7.6,
+    "weight": 3.50,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Gloom",
+    "players": [2,4],
+    "playTime": [45,60],
+    "bggRating": 6.4,
+    "weight": 1.64,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Imperial settlers",
+    "players": [1,4],
+    "playTime": [45,90],
+    "bggRating": 7.5,
+    "weight": 2.77,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Ishtar: Gardens of Babylon",
+    "players": [2,4],
+    "playTime": [30,45],
+    "bggRating": 7.2,
+    "weight": 2.37,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Jaipur",
+    "players": [2,2],
+    "playTime": [25,35],
+    "bggRating": 7.5,
+    "weight": 1.51,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Joking hazard",
+    "players": [3,10],
+    "playTime": [30,90],
+    "bggRating": 6.5,
+    "weight": 1.07,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Kingdom builder",
+    "players": [2,4],
+    "playTime": [45,60],
+    "bggRating": 7.0,
+    "weight": 2.07,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Lotus",
+    "players": [2,4],
+    "playTime": [20,30],
+    "bggRating": 6.8,
+    "weight": 1.49,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Machi Koro: Deluxe Edition",
+    "players": [2,5],
+    "playTime": [25,35],
+    "bggRating": 7.1,
+    "weight": 1.74,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Marvel Champions",
+    "players": [
+      1,
+      4
+    ],
+    "playTime": [
+      45,
+      90
+    ],
+    "bggRating": 8.3,
+    "weight": 2.75,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Doctor Strange Hero Pack",
+    "players": [1,4],
+    "playTime": [45,90],
+    "bggRating": 8.7,
+    "weight": 2.75,
+    "own": true,
+    "played": true,
+    "expansion": true
+  },
+  {
+    "title": "Mechs vs. Minions",
+    "players": [2,4],
+    "playTime": [60,90],
+    "bggRating": 8.1,
+    "weight": 2.41,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Monopoly: The Simpsons",
+    "players": [2,6],
+    "playTime": [90,120],
+    "bggRating": 5.2,
+    "weight": 1.67,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Mottainai",
+    "players": [2,5],
+    "playTime": [15,30],
+    "bggRating": 7.0,
+    "weight": 3.07,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Munchkin deluxe",
+    "players": [3,6],
+    "playTime": [60,120],
+    "bggRating": 5.9,
+    "weight": 1.80,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Oh my goods",
+    "players": [2,4],
+    "playTime": [30,45],
+    "bggRating": 7.0,
+    "weight": 2.27,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Pandemic",
+    "players": [2,4],
+    "playTime": [40,60],
+    "bggRating": 7.6,
+    "weight": 2.41,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Parade",
+    "players": [2,6],
+    "playTime": [30,45],
+    "bggRating": 7.0,
+    "weight": 1.48,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Planet",
+    "players": [2,4],
+    "playTime": [30,45],
+    "bggRating": 6.8,
+    "weight": 1.62,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Risk",
+    "players": [2,6],
+    "playTime": [90,120],
+    "bggRating": 5.6,
+    "weight": 2.09,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Santorini",
+    "players": [
+      2,
+      4
+    ],
+    "playTime": [
+      15,
+      30
+    ],
+    "bggRating": 7.6,
+    "weight": 1.74,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Santorini: Golden Fleece",
+    "players": [2,4],
+    "playTime": [15,30],
+    "bggRating": 7.9,
+    "weight": 1.92,
+    "own": true,
+    "played": true,
+    "expansion":true
+  },
+  {
+    "title": "Small World",
+    "players": [2,5],
+    "playTime": [40,80],
+    "bggRating": 7.3,
+    "weight": 2.36,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Splendor",
+    "players": [2,4],
+    "playTime": [30,40],
+    "bggRating": 7.5,
+    "weight": 1.81,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Struggle for Catan",
+    "players": [2,4],
+    "playTime": [30,40],
+    "bggRating": 6.2,
+    "weight": 1.67,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Takenoko",
+    "players": [2,4],
+    "playTime": [30,45],
+    "bggRating": 7.3,
+    "weight": 1.98,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Ticket to Ride",
+    "players": [2,5],
+    "playTime": [30,60],
+    "bggRating": 7.4,
+    "weight": 1.86,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Villainous",
+    "players": [2,6],
+    "playTime": [40,60],
+    "bggRating": 7.1,
+    "weight": 2.37,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Village",
+    "players": [2,4],
+    "playTime": [60,90],
+    "bggRating": 7.5,
+    "weight": 3.07,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Welcome to the Dungeon",
+    "players": [2,4],
+    "playTime": [20,30],
+    "bggRating": 6.6,
+    "weight": 1.22,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Wingspan",
+    "players": [
+      1,
+      5
+    ],
+    "playTime": [
+      40,
+      70
+    ],
+    "bggRating": 8.1,
+    "weight": 2.37,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Wingspan: European Expansion",
+    "players": [1,5],
+    "playTime": [40,70],
+    "bggRating": 8.5,
+    "weight": 2.26,
+    "own": true,
+    "played": true,
+    "expansion": true
+  },
+  {
+    "title": "Wingspan: Oceania Expansion",
+    "players": [1,5],
+    "playTime": [40,70],
+    "bggRating": 8.6,
+    "weight": 2.62,
+    "own": true,
+    "played": true,
+    "expansion": true
+  },
+  {
+    "title": "You've got crabs",
+    "players": [4,10],
+    "playTime": [15,20],
+    "bggRating": 6.2,
+    "weight": 1.17,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Coimbra",
+    "players": [2,4],
+    "playTime": [60,90],
+    "bggRating": 7.7,
+    "weight": 3.29,
+    "own": false,
+    "played": false
+  },
+  {
+    "title": "Everdell",
+    "players": [1,4],
+    "playTime": [40,80],
+    "bggRating": 8.0,
+    "weight": 2.82,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Scythe",
+    "players": [1,5],
+    "playTime": [90,115],
+    "bggRating": 8.3,
+    "weight": 3.38,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Villainous: Wicked to the Core",
+    "players": [2,3],
+    "playTime": [40,60],
+    "bggRating": 7.7,
+    "weight": 2.13,
+    "own": true,
+    "played": false,
+    "expansion": true
+  },
+  {
+    "title": "Architects of the West Kingdom",
+    "players": [1,5],
+    "playTime": [60,80],
+    "bggRating": 7.8,
+    "weight": 2.78,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Paladins of the West Kingdom",
+    "players": [1,4],
+    "playTime": [90,120],
+    "bggRating": 8.1,
+    "weight": 3.66,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Photosynthesis",
+    "players": [2,4],
+    "playTime": [30,60],
+    "weight": 2.27,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Pandemic Legacy: Season 1",
+    "players": [2,4],
+    "playTime": [60,60],
+    "weight": 2.83,
+    "own": true,
+    "played": true
+  },
+  {
+    "title": "Muffin Time",
+    "players": [2,6],
+    "playTime": [20,40],
+    "weight": 1.08,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "7 Wonders Duel",
+    "players": [2,2],
+    "playTime": [30,30],
+    "weight": 2.22,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Century: Golem Edition",
+    "players": [2,5],
+    "playTime": [30,45],
+    "weight": 1.68,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Century: Golem Edition – Eastern Mountains",
+    "players": [2,4],
+    "playTime": [30,45],
+    "weight": 2.35,
+    "own": true,
+    "played": false
+  },
+  {
+    "title": "Century: Golem Edition – An Endless World",
+    "players": [2,4],
+    "playTime": [30,45],
+    "weight": 2.04,
+    "own": true,
+    "played": false
+  }
+]
